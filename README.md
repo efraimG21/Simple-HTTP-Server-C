@@ -94,11 +94,15 @@ The server includes basic error handling for:
 
 To enable debugging information, ensure that the `printf` statements in the code are active. This will print request details to the console, which can help in debugging.
 
-### Contributing
+## Contributing
 
-Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+Feel free to contribute to the project by opening issues or pull requests.
 
-### License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+Feel free to customize the content as needed for your project. If you have any specific requirements or if you'd like further modifications, please let me know!
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
